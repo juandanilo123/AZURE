@@ -1,0 +1,151 @@
+id_tienda,nom_tienda,tipo_tienda,id_ciudad,id_pais,metros_cuadrados,activo,fec_apertura
+1,RetailMax 001,Conveniencia,Quito,Chile,8471,True,2025-04-14
+2,RetailMax 002,Hipermercado,Quito,Colombia,844,True,2025-01-13
+3,RetailMax 003,Conveniencia,Ciudad de México,Colombia,6083,False,2025-09-04
+4,RetailMax 004,Hipermercado,Santiago,Perú,5994,True,2025-12-27
+5,RetailMax 005,Supermercado,Ciudad de México,México,7440,True,2025-04-07
+6,RetailMax 006,Supermercado,Ciudad de México,México,3876,True,2025-05-24
+7,RetailMax 007,Conveniencia,Bogotá,México,9798,True,2025-10-07
+8,RetailMax 008,Hipermercado,Cali,Colombia,12602,True,2025-08-20
+9,RetailMax 009,Conveniencia,Santiago,México,5404,True,2025-06-04
+10,RetailMax 010,Conveniencia,Medellín,Perú,5757,True,2025-02-20
+11,RetailMax 011,Supermercado,Bogotá,Colombia,10531,True,2025-05-29
+12,RetailMax 012,Hipermercado,Bogotá,Ecuador,8717,True,2025-08-02
+13,RetailMax 013,Hipermercado,Lima,Chile,5730,True,2025-08-31
+14,RetailMax 014,Conveniencia,Quito,Chile,6868,True,2025-10-28
+15,RetailMax 015,Hipermercado,Medellín,Chile,11670,True,2025-03-15
+16,RetailMax 016,Hipermercado,Lima,Perú,4392,True,2025-09-11
+17,RetailMax 017,Hipermercado,Lima,Chile,5479,True,2025-12-20
+18,RetailMax 018,Supermercado,Cali,Colombia,10943,True,2025-08-30
+19,RetailMax 019,Supermercado,Medellín,Ecuador,2518,True,2025-04-06
+20,RetailMax 020,Hipermercado,Medellín,Colombia,11063,True,2025-09-15
+21,RetailMax 021,Conveniencia,Medellín,Perú,14908,True,2025-09-02
+22,RetailMax 022,Conveniencia,Bogotá,Perú,12564,True,2025-09-17
+23,RetailMax 023,Hipermercado,Quito,México,12977,True,2025-01-17
+24,RetailMax 024,Hipermercado,Lima,Chile,12886,True,2025-02-12
+25,RetailMax 025,Supermercado,Bogotá,México,743,True,2025-02-16
+26,RetailMax 026,Hipermercado,Santiago,Colombia,5318,True,2025-02-17
+27,RetailMax 027,Hipermercado,Santiago,Colombia,11148,True,2025-05-04
+28,RetailMax 028,Hipermercado,Quito,México,12077,True,2025-07-05
+29,RetailMax 029,Hipermercado,Ciudad de México,Colombia,9529,True,2025-06-16
+30,RetailMax 030,Hipermercado,Santiago,Perú,12155,True,2025-03-10
+31,RetailMax 031,Supermercado,Bogotá,Ecuador,12791,True,2025-06-13
+32,RetailMax 032,Hipermercado,Ciudad de México,Chile,6149,True,2025-09-17
+33,RetailMax 033,Hipermercado,Ciudad de México,Chile,10413,True,2025-04-25
+34,RetailMax 034,Conveniencia,Ciudad de México,Perú,1074,True,2025-11-05
+35,RetailMax 035,Supermercado,Quito,Chile,7795,True,2025-09-17
+36,RetailMax 036,Conveniencia,Ciudad de México,Perú,10196,True,2025-02-03
+37,RetailMax 037,Hipermercado,Bogotá,México,13903,True,2025-09-21
+38,RetailMax 038,Supermercado,Lima,México,2461,True,2025-06-02
+39,RetailMax 039,Conveniencia,Medellín,Chile,8808,True,2025-01-26
+40,RetailMax 040,Conveniencia,Bogotá,Perú,11642,True,2025-04-05
+41,RetailMax 041,Hipermercado,Santiago,México,8792,True,2025-04-13
+42,RetailMax 042,Hipermercado,Lima,México,9455,True,2025-11-07
+43,RetailMax 043,Hipermercado,Medellín,Chile,8343,True,2025-12-22
+44,RetailMax 044,Supermercado,Quito,Chile,14236,True,2025-09-02
+45,RetailMax 045,Supermercado,Quito,México,11570,True,2025-02-01
+46,RetailMax 046,Supermercado,Lima,Chile,8055,True,2025-08-25
+47,RetailMax 047,Supermercado,Lima,Chile,4413,True,2025-12-18
+48,RetailMax 048,Conveniencia,Ciudad de México,Chile,11349,True,2025-05-27
+49,RetailMax 049,Hipermercado,Ciudad de México,Perú,12160,True,2025-08-03
+50,RetailMax 050,Conveniencia,Bogotá,México,2174,True,2025-04-25
+51,RetailMax 051,Supermercado,Lima,Chile,12425,True,2025-08-14
+52,RetailMax 052,Hipermercado,Bogotá,México,12922,True,2025-04-13
+53,RetailMax 053,Supermercado,Lima,Chile,14876,True,2025-07-01
+54,RetailMax 054,Supermercado,Lima,Chile,3037,True,2025-03-06
+55,RetailMax 055,Hipermercado,Medellín,Ecuador,5132,True,2025-12-15
+56,RetailMax 056,Hipermercado,Santiago,Chile,424,True,2025-12-16
+57,RetailMax 057,Supermercado,Bogotá,Ecuador,13076,True,2025-05-23
+58,RetailMax 058,Hipermercado,Cali,Perú,11053,True,2025-01-08
+59,RetailMax 059,Hipermercado,Santiago,Colombia,215,True,2025-08-04
+60,RetailMax 060,Conveniencia,Medellín,Perú,1727,True,2025-01-03
+61,RetailMax 061,Conveniencia,Quito,México,2649,True,2025-07-20
+62,RetailMax 062,Supermercado,Santiago,Ecuador,11322,True,2025-08-24
+63,RetailMax 063,Hipermercado,Santiago,México,14552,True,2025-06-01
+64,RetailMax 064,Hipermercado,Santiago,Ecuador,12653,True,2025-10-05
+65,RetailMax 065,Supermercado,Cali,Perú,14510,True,2025-02-18
+66,RetailMax 066,Hipermercado,Cali,Perú,12843,True,2025-09-06
+67,RetailMax 067,Conveniencia,Santiago,Perú,11886,True,2025-06-22
+68,RetailMax 068,Supermercado,Cali,México,7536,True,2025-12-10
+69,RetailMax 069,Supermercado,Santiago,Chile,10357,True,2025-11-08
+70,RetailMax 070,Supermercado,Lima,Colombia,2273,True,2025-03-24
+71,RetailMax 071,Supermercado,Quito,Ecuador,14629,True,2025-05-17
+72,RetailMax 072,Hipermercado,Bogotá,Ecuador,8256,True,2025-01-28
+73,RetailMax 073,Hipermercado,Santiago,Ecuador,7439,True,2025-11-03
+74,RetailMax 074,Supermercado,Lima,Colombia,2821,True,2025-03-31
+75,RetailMax 075,Hipermercado,Ciudad de México,Perú,11013,True,2025-09-19
+76,RetailMax 076,Conveniencia,Santiago,Chile,10631,True,2025-11-20
+77,RetailMax 077,Hipermercado,Ciudad de México,Ecuador,694,True,2025-08-20
+78,RetailMax 078,Conveniencia,Medellín,Chile,14123,True,2025-02-19
+79,RetailMax 079,Conveniencia,Lima,México,12914,True,2025-10-18
+80,RetailMax 080,Conveniencia,Lima,Perú,9654,True,2025-03-10
+81,RetailMax 081,Hipermercado,Medellín,México,5399,True,2025-04-11
+82,RetailMax 082,Conveniencia,Cali,Perú,14938,True,2025-07-13
+83,RetailMax 083,Hipermercado,Medellín,Chile,10796,True,2025-09-03
+84,RetailMax 084,Supermercado,Medellín,Chile,8127,True,2025-10-29
+85,RetailMax 085,Hipermercado,Quito,Perú,8220,True,2025-10-08
+86,RetailMax 086,Supermercado,Santiago,Ecuador,607,True,2025-09-18
+87,RetailMax 087,Hipermercado,Santiago,Ecuador,8889,True,2025-11-21
+88,RetailMax 088,Hipermercado,Bogotá,Ecuador,1275,True,2025-09-04
+89,RetailMax 089,Hipermercado,Ciudad de México,Perú,9618,True,2025-04-08
+90,RetailMax 090,Supermercado,Quito,México,4379,True,2025-11-10
+91,RetailMax 091,Conveniencia,Medellín,Perú,9293,True,2025-12-26
+92,RetailMax 092,Hipermercado,Quito,Perú,7847,True,2025-03-28
+93,RetailMax 093,Supermercado,Ciudad de México,México,8267,True,2025-02-06
+94,RetailMax 094,Hipermercado,Quito,México,7059,True,2025-02-17
+95,RetailMax 095,Conveniencia,Lima,Perú,14439,True,2025-07-18
+96,RetailMax 096,Supermercado,Santiago,Ecuador,9805,True,2025-07-15
+97,RetailMax 097,Conveniencia,Medellín,México,9596,True,2025-07-29
+98,RetailMax 098,Hipermercado,Quito,Perú,8607,True,2025-12-13
+99,RetailMax 099,Supermercado,Ciudad de México,Colombia,13409,True,2025-01-21
+100,RetailMax 100,Hipermercado,Lima,Chile,3445,True,2025-12-30
+101,RetailMax 101,Hipermercado,Cali,Colombia,1006,True,2025-09-19
+102,RetailMax 102,Conveniencia,Santiago,Perú,7528,True,2025-11-12
+103,RetailMax 103,Conveniencia,Ciudad de México,Ecuador,12412,True,2025-05-14
+104,RetailMax 104,Conveniencia,Ciudad de México,Perú,5549,True,2025-11-04
+105,RetailMax 105,Conveniencia,Lima,Colombia,14918,True,2025-06-05
+106,RetailMax 106,Hipermercado,Lima,Chile,9631,True,2025-10-19
+107,RetailMax 107,Conveniencia,Ciudad de México,Chile,13311,True,2025-12-30
+108,RetailMax 108,Supermercado,Lima,Ecuador,7707,True,2025-11-30
+109,RetailMax 109,Supermercado,Quito,Perú,12479,True,2025-05-27
+110,RetailMax 110,Conveniencia,Lima,México,12534,True,2025-08-20
+111,RetailMax 111,Conveniencia,Ciudad de México,México,9130,True,2025-10-15
+112,RetailMax 112,Hipermercado,Quito,Perú,9551,True,2025-10-27
+113,RetailMax 113,Supermercado,Lima,Ecuador,8380,True,2025-01-22
+114,RetailMax 114,Supermercado,Lima,Ecuador,8448,True,2025-08-25
+115,RetailMax 115,Supermercado,Bogotá,Chile,6901,True,2025-09-11
+116,RetailMax 116,Hipermercado,Cali,Perú,10072,True,2025-07-25
+117,RetailMax 117,Hipermercado,Medellín,Ecuador,5461,True,2025-11-14
+118,RetailMax 118,Hipermercado,Lima,Ecuador,10740,True,2025-06-18
+119,RetailMax 119,Hipermercado,Ciudad de México,Colombia,9870,True,2025-03-07
+120,RetailMax 120,Hipermercado,Lima,Perú,773,True,2025-12-17
+121,RetailMax 121,Conveniencia,Medellín,Perú,14542,True,2025-07-03
+122,RetailMax 122,Supermercado,Lima,Ecuador,332,True,2025-01-15
+123,RetailMax 123,Conveniencia,Ciudad de México,Ecuador,12719,True,2025-05-17
+124,RetailMax 124,Conveniencia,Santiago,Colombia,8276,True,2025-09-12
+125,RetailMax 125,Conveniencia,Quito,Colombia,10331,True,2025-10-06
+126,RetailMax 126,Hipermercado,Cali,Perú,5470,True,2025-03-04
+127,RetailMax 127,Hipermercado,Quito,Chile,14819,True,2025-08-10
+128,RetailMax 128,Supermercado,Cali,Colombia,9704,True,2025-09-10
+129,RetailMax 129,Conveniencia,Quito,Colombia,7151,True,2025-01-20
+130,RetailMax 130,Hipermercado,Quito,Colombia,11529,True,2025-09-03
+131,RetailMax 131,Conveniencia,Bogotá,Colombia,4758,True,2025-04-10
+132,RetailMax 132,Conveniencia,Lima,Perú,6978,True,2025-07-09
+133,RetailMax 133,Conveniencia,Ciudad de México,Chile,342,True,2025-10-05
+134,RetailMax 134,Hipermercado,Cali,Colombia,13175,True,2025-06-28
+135,RetailMax 135,Conveniencia,Santiago,Colombia,10139,True,2025-10-27
+136,RetailMax 136,Hipermercado,Lima,México,8822,True,2025-03-21
+137,RetailMax 137,Hipermercado,Medellín,Perú,4366,True,2025-09-04
+138,RetailMax 138,Conveniencia,Lima,México,362,True,2025-03-06
+139,RetailMax 139,Conveniencia,Lima,Ecuador,10282,True,2025-09-18
+140,RetailMax 140,Conveniencia,Bogotá,Colombia,9975,True,2025-02-23
+141,RetailMax 141,Hipermercado,Bogotá,Perú,7687,True,2025-06-09
+142,RetailMax 142,Supermercado,Cali,Chile,12435,True,2025-12-15
+143,RetailMax 143,Supermercado,Ciudad de México,México,4892,True,2025-05-26
+144,RetailMax 144,Conveniencia,Santiago,Chile,5784,True,2025-04-07
+145,RetailMax 145,Supermercado,Bogotá,Colombia,3349,True,2025-08-19
+146,RetailMax 146,Supermercado,Bogotá,Ecuador,7797,True,2025-05-30
+147,RetailMax 147,Hipermercado,Cali,Perú,5609,True,2025-01-09
+148,RetailMax 148,Conveniencia,Lima,Perú,13527,True,2025-05-13
+149,RetailMax 149,Hipermercado,Bogotá,Perú,8988,True,2025-08-08
+150,RetailMax 150,Hipermercado,Quito,Chile,309,True,2025-05-02
